@@ -29,6 +29,7 @@ This project is a real-time automation built with [n8n](https://n8n.io/) that:
 ![Workflow Overview](./docs/workflow_diagram.png)
 ![Slack Message](./docs/slack_message_sample.png)
 ![Google Sheet](./docs/google_sheet_example.png)
+![Follow-up Email](docs/FollowUp%20Email.png)
 
 ---
 
